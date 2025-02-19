@@ -220,7 +220,7 @@ You can customize how the Sweetviz report looks in your Comet workspace by overr
 
 You can choose to use either the widescreen (horizontal) or vertical layouts, as well as set your preferred scale, by putting the following in your override INI file:
 
-[comet_ml_defaults]
+
 html_layout = vertical
 html_scale = 0.85
 Troubleshooting / FAQ
@@ -250,5 +250,5 @@ To make Sweetviz as useful as possible we need to hear what you would like it to
 4. Contribute to the development
 I definitely welcome the help I can get on this project, simply get in touch on the issue tracker and/or our Discourse forum.
 
-Please note that after a hectic development period, the code itself right now needs a bit of cleanup. :)
+Please note that after a hectic development period, the code itself right now needs a bit of cleanup.
 
